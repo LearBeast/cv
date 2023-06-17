@@ -3,9 +3,12 @@ body {
 }
 
 /* Hero Section */
+.navbar{
+  background: linear-gradient(#212529, #202020);
+}
 
 #Hero-Section {
-  background-image: url("../img/Israel\ Header.jpg");
+ background-image:url("../img/IsraelHeader.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -18,6 +21,10 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+#Imgdesafio{
+  width: 500px;
+  height: 400px;
 }
 
 /* Contacto */
